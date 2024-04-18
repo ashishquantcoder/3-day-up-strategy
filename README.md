@@ -1,6 +1,6 @@
 # 3-day-up-strategy
 
-This strategy, often referred to as the "3 Day Up" strategy, is based on identifying a specific pattern in the price movement of a security over a four-day period. Here's a detailed explanation of the strategy:
+This strategy, often referred to as the **"3 Day Up"** strategy, is based on identifying a specific pattern in the price movement of a security over a four-day period. Here's a detailed explanation of the strategy:
 
 **Strategy Conditions:**
 First Day (Day 1):
